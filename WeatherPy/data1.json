@@ -1,0 +1,50 @@
+{
+    "cod": "404",
+    "message": "city not found"
+}{
+    "coord": {
+        "lon": -37.6368,
+        "lat": 65.6145
+    },
+    "weather": [
+        {
+            "id": 804,
+            "main": "Clouds",
+            "description": "overcast clouds",
+            "icon": "04n"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 267.03,
+        "feels_like": 267.03,
+        "temp_min": 267.03,
+        "temp_max": 267.03,
+        "pressure": 1018,
+        "humidity": 82,
+        "sea_level": 1018,
+        "grnd_level": 1013
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1.3,
+        "deg": 306,
+        "gust": 1.48
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1620529389,
+    "sys": {
+        "country": "GL",
+        "sunrise": 1620537571,
+        "sunset": 1620603269
+    },
+    "timezone": -7200,
+    "id": 3424607,
+    "name": "Tasiilaq",
+    "cod": 200
+}{
+    "cod": "404",
+    "message": "city not found"
+}
