@@ -3,8 +3,8 @@ There are two parts to the assignment
 
 ## Table of Contents ##
 * [WeatherPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy)
-
-
+* [VacationPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy)
+* [WeatherPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy-Solution)
 * [VacationPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Solution)
 ## WeatherPy 
 Students are tasked creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, students would be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api) to create a representative model of weather across world cities. Information collected from Open Weather Map API include latitude, longitude, windspeed, cloudiness, humidity, and country for each of the 500+ cities.
@@ -12,7 +12,7 @@ Students are tasked creating a Python script to visualize the weather of 500+ ci
 ## Vacation Py
 Using the data generated in WeatherPy, students are tasked with generating a HeatMap using Google Maps to visualize the intensity of humidity in each of the 500+ cities. Further, students will narrow the cities down based on ideal weather conditions for vacationing, and then using GoogleMap Nearby Search API to identify hotels within 5,000 meters of the city location. A marker with hotel name will be created on the heat map for each hotel.
 
-## Assignment #1 Solution
+## WeatherPy Solution
 ># Temperature
 >The closer a city is from the equator, the higher the temperature. Higher negative latitude means further south of the equator. From the plot, the most negative latitude has the lowest temperature on the left side of the plot. As the latitude gets closed to zero (i.e. the equator) the temperature rises. As the latitude increase towards the right of the plot, or when the city is further from the equator, the temperature decreases.
 >
