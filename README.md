@@ -17,7 +17,7 @@ Using the data generated in WeatherPy, students are tasked with generating a Hea
 ## WeatherPy Solution
 # Temperature
 ## Observation 1. 
-The closer a city is from the equator, the higher the temperature. Higher negative latitude means further south of the equator. From the plot, the most negative latitude has the lowest temperature on the left side of the plot. As the latitude gets closed to zero (i.e. the equator) the temperature rises. As the latitude increase towards the right of the plot, or when the city is further from the equator, the temperature decreases. See further analysis below on Northern and Southern Hemisphere. 
+The closer a city is from the equator, the higher the temperature. Higher negative latitude means further south of the equator. From the plot, the most negative latitude has the lowest temperature on the left side of the plot. As the latitude gets closed to zero (i.e. the equator) the temperature rises. As the latitude increase towards the right of the plot, or when the city is further from the equator, the temperature decreases. This is consistent with the basic understanding that temperature is higher near the equator. See further analysis below on Northern and Southern Hemisphere. 
 
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Temp.png)
 
