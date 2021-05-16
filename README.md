@@ -4,6 +4,9 @@ There are two parts to the assignment
 ## Table of Contents ##
 * [WeatherPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy-Requiremnet)
 * [VacationPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Requirement)
+* [Observation 1](https://github.com/adriana-icasiano/python-api-challenge#Observation-1.)
+* [Observation 2](https://github.com/adriana-icasiano/python-api-challenge#Observation-2.)
+* [Observation 3](https://github.com/adriana-icasiano/python-api-challenge#Observation-3.)
 * [WeatherPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy-Solution)
 * [VacationPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Solution)
 
@@ -15,7 +18,8 @@ Using the data generated in WeatherPy, students are tasked with generating a Hea
 
 ## WeatherPy Solution
 # Temperature
-The closer a city is from the equator, the higher the temperature. Higher negative latitude means further south of the equator. From the plot, the most negative latitude has the lowest temperature on the left side of the plot. As the latitude gets closed to zero (i.e. the equator) the temperature rises. As the latitude increase towards the right of the plot, or when the city is further from the equator, the temperature decreases.
+## Observation 1. 
+The closer a city is from the equator, the higher the temperature. Higher negative latitude means further south of the equator. From the plot, the most negative latitude has the lowest temperature on the left side of the plot. As the latitude gets closed to zero (i.e. the equator) the temperature rises. As the latitude increase towards the right of the plot, or when the city is further from the equator, the temperature decreases. See further analysis below on Northern and Southern Hemisphere. 
 
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Temp.png)
 
@@ -32,7 +36,8 @@ The r-value is 0.7302547842043156. Therefore, latitude in the southern hemispher
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Max%20Temp%20S.Hem.png)
 
 # Cloudiness
-The plots are very scattered through out the plot. It appears that latitude does not have a relationship with cloudiness.
+## Observation 2.
+The plots are very scattered through out. Cloudiness is impacted by the altitudes not latitudes. The plot which shows no obvious relationship between latitude and cloudiness is consistent with this basic understanding. See further analysis below on Northern and Southern Hemisphere. 
 
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Cloudiness.png)
 
@@ -49,7 +54,8 @@ The r-value is 0.07783404768292017. Therefore, latitude in the southern hemisphe
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Cloudiness%20S.Hem.png)
 
 # Humidity
-The plots are very scattered through out the plot. It appears that latitude does not have a relationship with humidity.
+## Observation 3.
+The humidity appears to be higher near the equator (latitude = zero). According to ![UCAR Center of Science Educatiion](https://scied.ucar.edu/learning-zone/how-weather-works/humidity), warm air holds more water. While the relationship doesn't seem to be strong, there appears to be a slight relationship between latitude at humidity. See further analysis below on Northern and Southern Hemisphere. 
 
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Humidity.png)
 
