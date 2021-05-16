@@ -3,7 +3,8 @@ There are two parts to the assignment
 
 ## Table of Contents ##
 * [WeatherPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy)
-* 
+
+
 * [VacationPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Solution)
 ## WeatherPy 
 Students are tasked creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, students would be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api) to create a representative model of weather across world cities. Information collected from Open Weather Map API include latitude, longitude, windspeed, cloudiness, humidity, and country for each of the 500+ cities.
