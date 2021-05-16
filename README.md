@@ -53,7 +53,7 @@ The r-value is 0.07783404768292017. Therefore, latitude in the southern hemisphe
 
 # Humidity
 ## Observation 3.
-The humidity appears to be higher near the equator (latitude = zero). According to [UCAR Center of Science Educatiion](https://scied.ucar.edu/learning-zone/how-weather-works/humidity), warm air holds more water. While the relationship doesn't seem to be strong, there appears to be a slight relationship between latitude at humidity. See further analysis below on Northern and Southern Hemisphere. 
+The humidity appears to be consisterly high (60+%) near the equator (latitude = zero). According to [UCAR Center of Science Educatiion](https://scied.ucar.edu/learning-zone/how-weather-works/humidity), warm air holds more water. While the relationship doesn't seem to be strong, there appears to be a slight relationship between latitude at humidity. See further analysis below on Northern and Southern Hemisphere. 
 
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Humidity.png)
 
