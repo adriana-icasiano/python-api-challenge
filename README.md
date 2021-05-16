@@ -1,9 +1,15 @@
 # python-api-challenge
 There are two parts to the assignment
-## Assignment #1 - WeatherPy 
+
+## Table of Contents ##
+* [WeatherPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy)
+* [Distribution of Female and Male](https://github.com/adriana-icasiano/matplotlib_challenge#Distribution-of-Female-and-Male)
+* [Tumor Volume](https://github.com/adriana-icasiano/matplotlib_challenge#Tumor-volume)
+* 
+## WeatherPy 
 Students are tasked creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, students would be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api) to create a representative model of weather across world cities. Information collected from Open Weather Map API include latitude, longitude, windspeed, cloudiness, humidity, and country for each of the 500+ cities.
 
-## Assignment #2 - Vacation Py
+## Vacation Py
 Using the data generated in WeatherPy, students are tasked with generating a HeatMap using Google Maps to visualize the intensity of humidity in each of the 500+ cities. Further, students will narrow the cities down based on ideal weather conditions for vacationing, and then using GoogleMap Nearby Search API to identify hotels within 5,000 meters of the city location. A marker with hotel name will be created on the heat map for each hotel.
 
 ## Assignment #1 Solution
