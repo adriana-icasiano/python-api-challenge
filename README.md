@@ -3,9 +3,8 @@ There are two parts to the assignment
 
 ## Table of Contents ##
 * [WeatherPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy)
-* [Distribution of Female and Male](https://github.com/adriana-icasiano/matplotlib_challenge#Distribution-of-Female-and-Male)
-* [Tumor Volume](https://github.com/adriana-icasiano/matplotlib_challenge#Tumor-volume)
 * 
+* [VacationPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Solution)
 ## WeatherPy 
 Students are tasked creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, students would be utilizing a [simple Python library](https://pypi.python.org/pypi/citipy), the [OpenWeatherMap API](https://openweathermap.org/api) to create a representative model of weather across world cities. Information collected from Open Weather Map API include latitude, longitude, windspeed, cloudiness, humidity, and country for each of the 500+ cities.
 
@@ -75,7 +74,7 @@ Using the data generated in WeatherPy, students are tasked with generating a Hea
 
 >![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Wind%20Speed%20S.Hem.png)
 
-## Assignment #2 Solution
+## VacationPy Solution
 > ## Heat Map of Intensity of Humidity of 600 cities
 
 >![](https://github.com/adriana-icasiano/python-api-challenge/blob/4f110cb37ca5d24fa9d19d7b0e3a1f09c31d5f1a/VacationPy/Images/HeatMap1.PNG)
