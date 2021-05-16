@@ -36,13 +36,13 @@ The plots are very scattered through out the plot. It appears that latitude does
 
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Cloudiness.png)
 
-##Northern Hemisphere Latitude vs. Cloudiness
+## Northern Hemisphere Latitude vs. Cloudiness
 
 The r-value is 0.1029201140767342 Therefore, latitude in the northern hemisphere has a weak positive relationship with cloudiness.
 
 ![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Cloudiness%20(%25)%20N.Hem.png)
 
-##Southern Hemisphere Latitude vs Cloudiness
+## Southern Hemisphere Latitude vs Cloudiness
 
 The r-value is 0.07783404768292017. Therefore, latitude in the southern hemisphere has a weak positive relationship with cloudiness.
 
