@@ -62,3 +62,5 @@ Using the data generated in WeatherPy, students are tasked with generating a Hea
 >![](https://github.com/adriana-icasiano/python-api-challenge/blob/578eac3e6c96d8ba33f74ac9cda00fa4db3da860/WeatherPy/Images/Lat%20vs%20Wind%20Speed%20S.Hem.png)
 
 
+![](https://github.com/adriana-icasiano/python-api-challenge/blob/4f110cb37ca5d24fa9d19d7b0e3a1f09c31d5f1a/VacationPy/Images/HeatMap1.PNG)
+![](https://github.com/adriana-icasiano/python-api-challenge/blob/4f110cb37ca5d24fa9d19d7b0e3a1f09c31d5f1a/VacationPy/Images/HeatMap%20Hotel%20Markers.PNG)
