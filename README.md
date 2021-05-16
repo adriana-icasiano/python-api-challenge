@@ -1,13 +1,11 @@
 # python-api-challenge
-There are two parts to the assignment
-
 ## Table of Contents ##
-* [WeatherPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy-Requiremnet)
-* [VacationPy - Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Requirement)
+* [WeatherPy (Part 1)- Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy-Requiremnet)
+* [WeatherPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy-Solution)
 * [Observation 1](https://github.com/adriana-icasiano/python-api-challenge#Observation-1.)
 * [Observation 2](https://github.com/adriana-icasiano/python-api-challenge#Observation-2.)
 * [Observation 3](https://github.com/adriana-icasiano/python-api-challenge#Observation-3.)
-* [WeatherPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#WeatherPy-Solution)
+* [VacationPy (Part 2)- Assignment Requirement](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Requirement)
 * [VacationPy - Solution](https://github.com/adriana-icasiano/python-api-challenge#VacationPy-Solution)
 
 ## WeatherPy Requirement
